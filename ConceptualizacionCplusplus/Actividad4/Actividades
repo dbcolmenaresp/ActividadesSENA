@@ -1,0 +1,13 @@
+# promedio2.cpp
+Analice la siguiente situación y elija la estructura de repetición que más se ajuste a la necesidad: 
+realice una aplicación en C++ que solicite al usuario la cantidad de notas que desea digitar. 
+Una vez obtenido este valor el programa pedirá al usuario que digite dicha cantidad de notas. 
+Al finalizar el programa debe mostrar en pantalla el promedio de las notas digitadas. Recuerde usar valores entre 0.0 y 5.0.
+
+# promedio3.cpp
+Continuando con el ejercicio de la actividad de aprendizaje 3 donde se solicitaba al profesor de tecnología digitar 
+las notas de sus estudiantes para determinar si aprobaban o no aprobaban la materia; realice lo siguiente: 
+agregue a dicho código una sentencia de repetición que le permita al profesor digitar la nota de sus estudiantes 
+hasta que él lo decida. Para lograrlo pregunte al usuario si desea digitar las notas de otro estudiante. 
+Si digita el número uno (1) es porque desea continuar y si digita el número cero (0) es porque desea terminar 
+la ejecución del programa.
