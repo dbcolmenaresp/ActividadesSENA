@@ -1,0 +1,13 @@
+# operadores.cpp
+Este codigo fuente presenta la estructura basica de un programa en lenguaje de programacion C++.
+A traves de comenarios se visualiza y explica cada una de las partes que contituyen un programa y 
+se usan los diferentes tipos de comentarios disponibles en el estandar ANSI C++.
+
+# aceleracion.cpp
+Se plantea el diseño de un programa que calcule la aceleracion de un vehiculo, en el cual se deben declarar las
+variables necesarias, solicitar al usuario el valor de las velocidades requeridas y realizar los calculos, 
+para finalmente mostrar en pantalla el resultado del calculo realizado.
+
+# tablamultiplicar.cpp
+Se desarrolla una aplicacion que solicita al usuario un numero entero y como resultado muestra la tabla de 
+multiplicar de dicho numero.
